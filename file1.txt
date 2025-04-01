@@ -1,1 +1,2 @@
 day1 class how to create a repository and add file to repo and commit it and push it
+hello all
