@@ -1,1 +1,7 @@
 new file from repo
+to get file from github to vs code we have give command like 
+git pull
+if any changes i will made i have give all commands again like
+git add filename.path
+git commit -m "message"
+git push
